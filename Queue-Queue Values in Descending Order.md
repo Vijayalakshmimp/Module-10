@@ -34,6 +34,8 @@ for number in l:
 while not que.empty():
     print(que.get()[1])
 ~~~
+
+
 ### Output:
 <img width="430" height="625" alt="image" src="https://github.com/user-attachments/assets/e69dc8d8-307b-4aa6-85b1-5404d15d7f41" />
 
